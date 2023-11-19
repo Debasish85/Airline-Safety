@@ -2,6 +2,8 @@
 
 ###Due to recent unfortunate airline crashes, the media has been promoting statistics stating air is no longer a safe way to travel. The news and media outlets have been bombarding the public with reports and figures about the downward trends of airline safety. We will be taking data and statistics into consideration and find out what is the truth.
 
+This project uses PowerBI, Tableau for creating various dashboards. A blogpost was created along with an infographic. Details could be found in the Documentation folder within the repo.
+
 ## Found a Bug?
   If you found an issue or would like to submit an improvement on this project, please submit an issue using the issue tab above. If you would like to submit a PR with a fix, refer the issue you created.
 
